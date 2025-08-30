@@ -114,12 +114,6 @@ The app includes basic error handling for the following cases:
 
 ---
 
-## Screenshots
-
-![Weather Now Screenshot](src/assets/screenshot.png)
-
----
-
 ## Contributing
 
 We welcome contributions! If you have suggestions for improvements or bug fixes, feel free to fork the repository and submit a pull request.
