@@ -116,7 +116,7 @@ The app includes basic error handling for the following cases:
 
 ## Screenshots
 
-Include some screenshots here (you can add them later once the app is ready).
+![Weather Now Screenshot](src/assets/screenshot.png)
 
 ---
 
